@@ -3,11 +3,11 @@
 </p>
 
 
-<h1 style="text-align:center;">
+
 <h2 style="text-align:center;">
 <p style="text-align:center;">
   
-# Welcome to Coty McKinney's Github page!
+# <h1 style="text-align:center;"> Welcome to Coty McKinney's Github page! </h1>
 
 Here is some text using **Markdown**.  This is a __*practice*__ page filled out while going through the tutorial. 
 
